@@ -33,7 +33,7 @@ print('Exercise 3:', slice_foods())
 def hometown_info():
     home_town = {
         'city': 'Manama',
-        'state': 'Manama?',
+        'state': 'Northern Governate',
         'population': 'many'
     }
     
