@@ -2,7 +2,7 @@
 def manage_students():
     students = ['alya', 'mahmood', 'abbas']
     first_student = students[1]
-    last_student = students[2]
+    last_student = students[-1]
     return (first_student, last_student)
 
 print('Exercise 1:', manage_students())
